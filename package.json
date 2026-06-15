@@ -1,0 +1,18 @@
+﻿{
+  "name": "falloutfanatics-broken-roads-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Live API for FalloutFanatics Broken Roads page",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
+
